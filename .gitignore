@@ -72,3 +72,9 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+
+
+#Firebase
+android/app/google-services.json
+ios/GoogleService-Info.plist
